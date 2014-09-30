@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="hello">Get Weather</string>
-	<string name="app_name">AsyncListView</string>
+	<string name="app_name">AsyncWeatherApp</string>
 	<string name="city">Your city</string>
 </resources>
