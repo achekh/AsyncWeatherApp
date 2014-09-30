@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AsyncWeatherApp.IO
 {
-    public class OpenWeatherClient
+    public class OpenWeatherClient : IOpenWeatherClient
     {
         private const string ForecastQuery =
             "http://api.openweathermap.org/data/2.5/forecast/daily?q={0}&mode=json&units=metric&cnt=14";
