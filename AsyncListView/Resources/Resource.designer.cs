@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("AsyncWeatherApp.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("AsyncListView.Resource", IsApplication=true)]
 
-namespace AsyncWeatherApp
+namespace AsyncListView
 {
 	
 	
